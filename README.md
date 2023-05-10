@@ -2,7 +2,11 @@
   <img alt="Pokedex" src="https://ik.imagekit.io/hwyksvj4iv/pokedex_N_WgWrJK0s.png" width="250px" />
 </h1>
 
-[Screen Recording 2023-05-10 at 13.03.19 (1).webm](https://github.com/mustaf630/pokemonn/assets/75674707/37627383-e1aa-474f-a454-b849e7989772)
+
+
+
+https://github.com/mustaf630/pokemonn/assets/75674707/19eaeffa-d405-48b0-837e-c9ecdb2c008f
+
 
 
 ## :page_with_curl: About
